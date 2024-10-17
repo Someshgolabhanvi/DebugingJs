@@ -9,3 +9,5 @@
 # Globle Execution context
 
 # Call Stack Maintains the order of execution of execution context
+
+# Hoisting in JS -> Hoisting is a phenomenon in JS by which we access variable and function even before we initialize it
