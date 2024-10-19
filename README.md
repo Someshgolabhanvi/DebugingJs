@@ -15,4 +15,13 @@
 # window and this  || this === window 
 # undefined and not defined
 
-# JS is loosely typed language 
+# JS is loosely typed language
+
+# Lexical Environment is like Hierarchy
+
+# What is a Temporal Dead Zone?
+    Timeline Between since when let or const variable Hoisted and to till it initialise some value
+
+# Are Let & Const declaration hoisted?
+    Yes but they are in temporal dead zone for time being
+# SyntaxError vs. ReferenceError vs. TypeError?
