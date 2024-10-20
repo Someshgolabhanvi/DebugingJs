@@ -25,3 +25,5 @@
 # Are Let & Const declaration hoisted?
     Yes but they are in temporal dead zone for time being
 # SyntaxError vs. ReferenceError vs. TypeError?
+
+# Clouser is a function which is binded together with Lexical scope
