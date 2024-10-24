@@ -27,3 +27,15 @@
 # SyntaxError vs. ReferenceError vs. TypeError?
 
 # Clouser is a function which is binded together with Lexical scope
+
+
+# Web APIs
+set Timeout()
+DOM APIs
+Fetch()
+localStorage
+Console
+Location
+
+# callback Queue and Microstack Queue 
+# Promises and Mutation Observer goes into Microstack Queue
